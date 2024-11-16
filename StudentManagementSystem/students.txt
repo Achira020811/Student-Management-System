@@ -1,0 +1,7 @@
+w2345678,Sameera,45,77,45,Pass
+w1234567,dasun,85,78,93,Distinction
+w4567892,Bimal,12,25,32,Fail
+w2345690,Akash,78,45,98,Merit
+w2456789,Deshan,0,0,0,Fail
+w2345679,chathuranga,0,0,0,Fail
+w1234568,Sandun,78,85,73,Merit
